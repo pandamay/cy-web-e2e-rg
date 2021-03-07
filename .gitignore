@@ -1,2 +1,8 @@
+# ide files
+.idea/
+# test output
+cypress/videos
+cypress/screenshots
+cypress/downloads
+# packages
 node_modules
-
